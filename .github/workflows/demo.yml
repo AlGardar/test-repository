@@ -7,7 +7,7 @@
            - name: Print greeting
              run: echo "Hello there"
            - name: Print a few line
-             run: 
+             run: |
                echo first line
                echo second line
                echo third line
